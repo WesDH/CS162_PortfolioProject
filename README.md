@@ -1,3 +1,11 @@
+Running the game:
+
+With Python 3.8+ interpreter installed, navigate to the FocusGame.py directory in your terminal and enter:
+
+python FocusGame.py
+
+
+
 # portfolio-project
 
 Write a class named FocusGame for playing an abstract board game called Focus/Domination. You can see the rules [here]
